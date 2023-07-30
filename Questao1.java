@@ -1,3 +1,7 @@
+/*1. Escreva um programa que calcule a área de um quadrado. O valor do lado de um quadrado
+deverá ser informado pelo usuário.
+/* */ 
+
 import java.util.Scanner;
 
 public class Questao1 {
